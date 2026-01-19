@@ -14,12 +14,6 @@ Strong Software Development background
 
 ---
 
-## GitHub Stats
-
-![Sahil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sahil0591&show_icons=true&theme=tokyonight)
-
----
-
 ## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil0591&layout=compact&theme=tokyonight)
