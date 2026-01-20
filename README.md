@@ -5,7 +5,7 @@ Aspiring AI / Machine Learning Engineer
 Strong Software Development background  
 
 [LinkedIn](https://www.linkedin.com/in/sahil-shindgikar-22ba9b2b8/) • 
-[Portfolio](https://sahil-shindgikar.vercel.app/) • 
+[Portfolio](https://sahil-shindgikar.vercel.app/) 
 
 ---
 
