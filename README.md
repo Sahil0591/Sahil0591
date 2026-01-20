@@ -4,6 +4,9 @@ Computer Science student
 Aspiring AI / Machine Learning Engineer  
 Strong Software Development background  
 
+[LinkedIn](https://www.linkedin.com/in/sahil-shindgikar-22ba9b2b8/) • 
+[Portfolio](https://sahil-shindgikar.vercel.app/) • 
+
 ---
 
 ## About Me
@@ -17,3 +20,4 @@ Strong Software Development background
 ## Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil0591&layout=compact&theme=tokyonight)
+
