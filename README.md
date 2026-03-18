@@ -15,7 +15,7 @@ Strong Software Development background
 - Enjoy building clean, scalable software systems  
 - Curious about AI ethics, emerging technologies, and creative coding  
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil0591&layout=compact&theme=tokyonight&include_all_commits=true)
 
 
 
