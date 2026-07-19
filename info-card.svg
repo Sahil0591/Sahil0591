@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="308" viewBox="0 0 490 308" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0f1923"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="0" y2="1"><stop offset="0"   stop-color="#006d32"/><stop offset="0.5" stop-color="#39d353"/><stop offset="1"   stop-color="#006d32"/></linearGradient>
+<filter id="glow" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="3" result="blur"/><feFlood flood-color="#39d353" flood-opacity="0.25" result="color"/><feComposite in="color" in2="blur" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="490" height="308" fill="url(#bg)"/>
+<rect x="0.5" y="0.5" width="489" height="307" fill="none" stroke="#21262d" stroke-width="1"/>
+<rect x="0" y="0" width="490" height="32" fill="#111720"/>
+<line x1="0" y1="32" x2="490" y2="32" stroke="#21262d"/>
+<text x="14" y="21" fill="#39d353" font-size="11" font-weight="700" text-anchor="middle">&gt;_</text>
+<text x="245" y="21" fill="#6e7681" font-size="11.5" text-anchor="middle">sahil@github: ~/profile</text>
+<line x1="382" y1="0" x2="382" y2="32" stroke="#21262d"/>
+<text x="400" y="21" fill="#27c93f" font-size="14" text-anchor="middle">–</text>
+<line x1="418" y1="0" x2="418" y2="32" stroke="#21262d"/>
+<text x="436" y="21" fill="#ffbd2e" font-size="14" text-anchor="middle">□</text>
+<line x1="454" y1="0" x2="454" y2="32" stroke="#21262d"/>
+<text x="472" y="21" fill="#ff5f56" font-size="14" text-anchor="middle">×</text>
+<rect x="0" y="32" width="3" height="276" fill="url(#acc)"/>
+<g opacity="0" transform="translate(0,6)">
+  <text x="22" y="72" fill="#e6edf3" font-size="20" font-weight="700" filter="url(#glow)">sahil0591</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.12s" dur="0.38s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.12s" dur="0.38s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+<g opacity="0" transform="translate(0,6)">
+  <text x="22" y="92" fill="#8b949e" font-size="12">AI / ML Engineer · CS Undergrad</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.20s" dur="0.38s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.20s" dur="0.38s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+<g opacity="0" transform="translate(0,6)">
+  <defs><linearGradient id="gl107" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#006d32" stop-opacity="0.8"/><stop offset="1" stop-color="#006d32" stop-opacity="0"/></linearGradient></defs><line x1="22" y1="107" x2="362" y2="107" stroke="url(#gl107)" stroke-width="1"/>
+  <animate attributeName="opacity" from="0" to="1" begin="0.30s" dur="0.38s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.30s" dur="0.38s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+<g opacity="0" transform="translate(0,6)">
+  <text x="22" y="128" fill="#58a6ff" font-size="10" font-weight="700" letter-spacing="1.5">STACK</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.38s" dur="0.38s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.38s" dur="0.38s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+<g opacity="0" transform="translate(0,6)">
+  <text x="22" y="149.4" fill="#484f58" font-size="9" font-weight="600" letter-spacing="0.8">LANGUAGES</text>
+  <rect x="94.0" y="136" width="62" height="20" rx="4" fill="#0d1117" stroke="#1f4b8e" stroke-width="1"/><text x="125.0" y="149.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#58a6ff" text-anchor="middle">Python</text>
+  <rect x="162.0" y="136" width="48" height="20" rx="4" fill="#0d1117" stroke="#1f4b8e" stroke-width="1"/><text x="186.0" y="149.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#58a6ff" text-anchor="middle">Java</text>
+  <rect x="216.0" y="136" width="90" height="20" rx="4" fill="#0d1117" stroke="#1f4b8e" stroke-width="1"/><text x="261.0" y="149.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#58a6ff" text-anchor="middle">TypeScript</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.45s" dur="0.38s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.45s" dur="0.38s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+<g opacity="0" transform="translate(0,6)">
+  <text x="22" y="176.4" fill="#484f58" font-size="9" font-weight="600" letter-spacing="0.8">AI / ML</text>
+  <rect x="94.0" y="163" width="70" height="20" rx="4" fill="#0d1117" stroke="#3d1f6e" stroke-width="1"/><text x="129.0" y="176.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#bc8cff" text-anchor="middle">PyTorch</text>
+  <rect x="170.0" y="163" width="90" height="20" rx="4" fill="#0d1117" stroke="#3d1f6e" stroke-width="1"/><text x="215.0" y="176.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#bc8cff" text-anchor="middle">TensorFlow</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.51s" dur="0.38s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.51s" dur="0.38s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+<g opacity="0" transform="translate(0,6)">
+  <text x="22" y="203.4" fill="#484f58" font-size="9" font-weight="600" letter-spacing="0.8">CLOUD</text>
+  <rect x="94.0" y="190" width="42" height="20" rx="4" fill="#0d1117" stroke="#6e3a0d" stroke-width="1"/><text x="115.0" y="203.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#ffa657" text-anchor="middle">AWS</text>
+  <rect x="142.0" y="190" width="62" height="20" rx="4" fill="#0d1117" stroke="#6e3a0d" stroke-width="1"/><text x="173.0" y="203.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#ffa657" text-anchor="middle">Docker</text>
+  <rect x="210.0" y="190" width="105" height="20" rx="4" fill="#0d1117" stroke="#6e3a0d" stroke-width="1"/><text x="262.5" y="203.8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#ffa657" text-anchor="middle">Apache Kafka</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.57s" dur="0.38s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.57s" dur="0.38s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+<g opacity="0" transform="translate(0,6)">
+  <defs><linearGradient id="gl222" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#006d32" stop-opacity="0.8"/><stop offset="1" stop-color="#006d32" stop-opacity="0"/></linearGradient></defs><line x1="22" y1="222" x2="362" y2="222" stroke="url(#gl222)" stroke-width="1"/>
+  <animate attributeName="opacity" from="0" to="1" begin="0.67s" dur="0.38s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.67s" dur="0.38s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+<g opacity="0" transform="translate(0,6)">
+  <text x="22" y="243" fill="#58a6ff" font-size="10" font-weight="700" letter-spacing="1.5">LINKS</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.75s" dur="0.38s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.75s" dur="0.38s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+<g opacity="0" transform="translate(0,6)">
+  <text x="22" y="263" fill="#39d353" font-size="12">→</text>
+  <text x="36" y="263" fill="#8b949e" font-size="12">sahilshindgikar.vercel.app</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.82s" dur="0.38s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.82s" dur="0.38s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+<g opacity="0" transform="translate(0,6)">
+  <text x="22" y="283" fill="#39d353" font-size="12">→</text>
+  <text x="36" y="283" fill="#8b949e" font-size="12">linkedin.com/in/sahilshindgikar</text>
+  <animate attributeName="opacity" from="0" to="1" begin="0.88s" dur="0.38s" fill="freeze"/>
+  <animateTransform attributeName="transform" type="translate" from="0 6" to="0 0" begin="0.88s" dur="0.38s" fill="freeze" calcMode="spline" keySplines="0.2 0.8 0.2 1"/>
+</g>
+</svg>

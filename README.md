@@ -1,21 +1,31 @@
-# Hi, I'm Sahil
+<div align="center">
 
-Computer Science student  
-Aspiring AI / Machine Learning Engineer  
-Strong Software Development background  
+<h3><code>sahil@github ~ $ ./contributions.sh</code></h3>
 
-[LinkedIn](https://www.linkedin.com/in/sahil-shindgikar-22ba9b2b8/) • 
-[Portfolio](https://sahil-shindgikar.vercel.app/) 
+<img src="./contrib-heatmap.svg" width="860" alt="Sahil's GitHub contribution graph — auto-refreshed daily" />
 
----
+<br>
+<br>
 
-## About Me
-- Interested in applying AI and Machine Learning to real-world problems  
-- Experience with NLP, Computer Vision, and Deep Learning projects  
-- Enjoy building clean, scalable software systems  
-- Curious about AI ethics, emerging technologies, and creative coding  
+<h3><code>sahil@github ~ $ whoami</code></h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahil0591&layout=compact&theme=tokyonight&include_all_commits=true)
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii3.svg" width="370" alt="Sahil Shindgikar — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Sahil Shindgikar — role, stack, links" /></td>
+</tr>
+</table>
 
+<br>
+<br>
 
+<h3><code>sahil@github ~ $ ./links.sh</code></h3>
 
+<p><b>AI / ML Engineer &nbsp;·&nbsp; CS Undergrad</b></p>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-sahilshindgikar.vercel.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://sahilshindgikar.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahilshindgikar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilshindgikar/)
+
+<br>
+
+</div>

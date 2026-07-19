@@ -1,0 +1,45 @@
+name: Update Profile Art
+
+on:
+  schedule:
+    # Daily at 06:17 UTC
+    - cron: '17 6 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        # Only the packages needed by the fetch + render scripts.
+        # prep_photo.py / make_ascii_svg.py are run locally (rembg/cv2 not needed here).
+        run: pip install requests==2.32.3 beautifulsoup4==4.12.3
+
+      - name: Fetch contribution data
+        run: python scripts/fetch_contributions.py
+
+      - name: Render contribution heatmap
+        run: python scripts/render_heatmap_svg.py
+
+      - name: Commit updated assets
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add contrib-heatmap.svg data/contributions.json
+          git diff --cached --quiet \
+            || git commit -m "chore: refresh contribution heatmap [skip ci]"
+          git push

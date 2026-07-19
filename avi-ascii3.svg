@@ -1,0 +1,366 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420.0" height="420.0" viewBox="0 0 420.0 420.0">
+  <rect width="100%" height="100%" fill="#0d1117"/>
+  <defs>
+    <style>.ac{font-family:"Courier New",Courier,monospace;font-size:7px;fill:#8b949e;white-space:pre}</style>
+    <clipPath id="cr0">
+      <rect x="0" y="0.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.000s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr1">
+      <rect x="0" y="7.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.047s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr2">
+      <rect x="0" y="14.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.093s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr3">
+      <rect x="0" y="21.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.140s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr4">
+      <rect x="0" y="28.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.187s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr5">
+      <rect x="0" y="35.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.233s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr6">
+      <rect x="0" y="42.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.280s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr7">
+      <rect x="0" y="49.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.327s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr8">
+      <rect x="0" y="56.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.373s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr9">
+      <rect x="0" y="63.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.420s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr10">
+      <rect x="0" y="70.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.467s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr11">
+      <rect x="0" y="77.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.513s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr12">
+      <rect x="0" y="84.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.560s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr13">
+      <rect x="0" y="91.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.607s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr14">
+      <rect x="0" y="98.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.653s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr15">
+      <rect x="0" y="105.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.700s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr16">
+      <rect x="0" y="112.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.747s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr17">
+      <rect x="0" y="119.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.793s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr18">
+      <rect x="0" y="126.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.840s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr19">
+      <rect x="0" y="133.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.887s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr20">
+      <rect x="0" y="140.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.933s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr21">
+      <rect x="0" y="147.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="0.980s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr22">
+      <rect x="0" y="154.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.027s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr23">
+      <rect x="0" y="161.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.073s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr24">
+      <rect x="0" y="168.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.120s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr25">
+      <rect x="0" y="175.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.167s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr26">
+      <rect x="0" y="182.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.213s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr27">
+      <rect x="0" y="189.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.260s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr28">
+      <rect x="0" y="196.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.307s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr29">
+      <rect x="0" y="203.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.353s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr30">
+      <rect x="0" y="210.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.400s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr31">
+      <rect x="0" y="217.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.447s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr32">
+      <rect x="0" y="224.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.493s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr33">
+      <rect x="0" y="231.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.540s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr34">
+      <rect x="0" y="238.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.587s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr35">
+      <rect x="0" y="245.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.633s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr36">
+      <rect x="0" y="252.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.680s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr37">
+      <rect x="0" y="259.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.727s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr38">
+      <rect x="0" y="266.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.773s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr39">
+      <rect x="0" y="273.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.820s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr40">
+      <rect x="0" y="280.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.867s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr41">
+      <rect x="0" y="287.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.913s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr42">
+      <rect x="0" y="294.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="1.960s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr43">
+      <rect x="0" y="301.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.007s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr44">
+      <rect x="0" y="308.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.053s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr45">
+      <rect x="0" y="315.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.100s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr46">
+      <rect x="0" y="322.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.147s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr47">
+      <rect x="0" y="329.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.193s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr48">
+      <rect x="0" y="336.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.240s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr49">
+      <rect x="0" y="343.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.287s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr50">
+      <rect x="0" y="350.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.333s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr51">
+      <rect x="0" y="357.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.380s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr52">
+      <rect x="0" y="364.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.427s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr53">
+      <rect x="0" y="371.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.473s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr54">
+      <rect x="0" y="378.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.520s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr55">
+      <rect x="0" y="385.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.567s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr56">
+      <rect x="0" y="392.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.613s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr57">
+      <rect x="0" y="399.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.660s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr58">
+      <rect x="0" y="406.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.707s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+    <clipPath id="cr59">
+      <rect x="0" y="413.0" width="0" height="7.0">
+        <animate attributeName="width" from="0" to="420.0" begin="2.753s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <text x="0" y="7.0" class="ac" clip-path="url(#cr0)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="14.0" class="ac" clip-path="url(#cr1)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@%@@@@@%%%%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="21.0" class="ac" clip-path="url(#cr2)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@#c**c##%%@@@@@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="28.0" class="ac" clip-path="url(#cr3)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@@%c--==---==+**cs#%@@@%%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="35.0" class="ac" clip-path="url(#cr4)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%c-.`::``.........`:+s%@@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="42.0" class="ac" clip-path="url(#cr5)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s=-...... ...`........`-+cs%@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="49.0" class="ac" clip-path="url(#cr6)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@c``:......... .......... .`:=cc#@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="56.0" class="ac" clip-path="url(#cr7)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@*  `:`:`....`.    ........  ...`=cs#%@%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="63.0" class="ac" clip-path="url(#cr8)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s...`::............. .......    ..`-+s%@@%@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="70.0" class="ac" clip-path="url(#cr9)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@s-:..```...... ....   .......  .    .:=*#@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="77.0" class="ac" clip-path="url(#cr10)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%=:-```..`....     .    . .......  .. .:-*c%@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="84.0" class="ac" clip-path="url(#cr11)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@*---:`` `:..               .....   ... .:-+s%@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="91.0" class="ac" clip-path="url(#cr12)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#---:`. .`....       ...... ....    .... .:-*%@%@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="98.0" class="ac" clip-path="url(#cr13)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%+--...`.`...       .  ......  ..  .. . .  ::+s@%@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="105.0" class="ac" clip-path="url(#cr14)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#==:...`..`.`````.```.  ...     .......... .-+s%@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="112.0" class="ac" clip-path="url(#cr15)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#s+:` ...`:=***=--:```....     ............-*#@%@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="119.0" class="ac" clip-path="url(#cr16)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#==::```..`=cc+:`.. .......    .   ...... -cc%@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="126.0" class="ac" clip-path="url(#cr17)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%*:-`+=---::-++-`...:---::`..           ..:#%%%@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="133.0" class="ac" clip-path="url(#cr18)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@#:`.--``=-:`=`::::``-=:::`.-`..       ...s@%@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="140.0" class="ac" clip-path="url(#cr19)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@+``cc=-==-*s=:`````=+:````--::.     ....s%%@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="147.0" class="ac" clip-path="url(#cr20)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%#=-#s**+*cs+:`::`:=+=----==+**:     ...-#@%@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="154.0" class="ac" clip-path="url(#cr21)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%s+scccs##c+-----=++*+++*****+` . .....*#@%@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="161.0" class="ac" clip-path="url(#cr22)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%@%ccsss##ss*+=::-+*ccc**++***=. ...:`-+c%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="168.0" class="ac" clip-path="url(#cr23)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%cccsss==+-:-=-`=*ccc*++++++: .```=:+#%@%@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="175.0" class="ac" clip-path="url(#cr24)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@@@@sccccc*==-```::=+*++++==++=:`::=:--#@%@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="182.0" class="ac" clip-path="url(#cr25)">@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@%#sc*csc+**==+:``:--=++======+=--=++:=#@%@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="189.0" class="ac" clip-path="url(#cr26)">@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#c=-`.   *s*:-===-:``...`-==---====::=+=c%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="196.0" class="ac" clip-path="url(#cr27)">@@@@@@@@@@@@@@@@@@@@@@@@@@%c-.        =s*:-++=-:```.``:==---===-:.`*s@@%@@@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="203.0" class="ac" clip-path="url(#cr28)">@@@@@@@@@@@@@@@@@@@@@@@@%%+   .....   .*c+*++++-:``.`:-----===-:: =@@@@%%%@@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="210.0" class="ac" clip-path="url(#cr29)">@@@@@@@@@@@@@@@@@@@@@@@%@%: ....   .   `cc+=:````::--:::-----:`-. :++s%@@@%%@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="217.0" class="ac" clip-path="url(#cr30)">@@@@@@@@@@@@@@@@@@@@@@@@%@+..  . ...    =scc**+-------::::::``-- .    `=s%@@%@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="224.0" class="ac" clip-path="url(#cr31)">@@@@@@@@@@@@@@@@@@@@@@@%@#-`........    `=*+=++:`:----:```..`-=`         :*%@%@@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="231.0" class="ac" clip-path="url(#cr32)">@@@@@@@@@@@@@@@@@@@@@@%@%=`.........   .--```:::```:`.....`:-=-. .         `c@%@@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="238.0" class="ac" clip-path="url(#cr33)">@@@@@@@@@@@@@@@@@@@@@@%%c...........   `++=-:`....    ..`:---=:   ..      .  c@%@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="245.0" class="ac" clip-path="url(#cr34)">@@@@@@@@@@@@@@@@@@@%%%%@=............ ..+cc*+++-:::::`::----==`   ...      . `%@%@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="252.0" class="ac" clip-path="url(#cr35)">@@@@@@@@@@@@@@@%%%@@@@@#=`..............:csc*++++=-=-:--======`    ...       :%@%@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="259.0" class="ac" clip-path="url(#cr36)">@@@@@@@@@@@@%%%@@@@%sc=:::...............:*cc**+==-:``:-====-=:     ...      -@%@@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="266.0" class="ac" clip-path="url(#cr37)">@@@@@@@@@@%%@@@%#c*=:`.::.  ..............`=*c*+++=-:::------=-      .. .  ..`#@%@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="273.0" class="ac" clip-path="url(#cr38)">@@@@@@@@%%@@%s*+--:...`:` .    ..........  .:=+++===--::--:--=`      .. ..... c%%@@@@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="280.0" class="ac" clip-path="url(#cr39)">@@@@@@%@@@%c=+-:`.. ..:`........ ....... .    `:--===----::--`       ....... `#@@%%%@@@@@@@@@@@@@@@@</text>
+  <text x="0" y="287.0" class="ac" clip-path="url(#cr40)">@@@@@%@%#*-:=-.    ..``..... .... ...   ...      ..``:--::::`        .........-*#@@@%%@@@@@@@@@@@@@@</text>
+  <text x="0" y="294.0" class="ac" clip-path="url(#cr41)">@@@@@@#*=``-`  ...  .`...   ...........    .                        ....... ..  .-*#@@%@@@@@@@@@@@@@</text>
+  <text x="0" y="301.0" class="ac" clip-path="url(#cr42)">@@@%%c-:````.......  .....   .....  ......                 ..      ....    ......  .=#@%%@@@@@@@@@@@</text>
+  <text x="0" y="308.0" class="ac" clip-path="url(#cr43)">@@%@c`.... .... ..... ...... .. .. .    ..... .......                ..   .........  `c@@%@@@@@@@@@@</text>
+  <text x="0" y="315.0" class="ac" clip-path="url(#cr44)">@%@s`......  .. .....  ..... .. .....   ... .  ............  .      ....  . ... .. ..  =%@%@@@@@@@@@</text>
+  <text x="0" y="322.0" class="ac" clip-path="url(#cr45)">%%%:..... .   .......  ....  ........  .......  ........ ....       .....  ... ...   .. -%@%@@@@@@@@</text>
+  <text x="0" y="329.0" class="ac" clip-path="url(#cr46)">%@= .....  ........... ....  .........  ......   ......... .         `.... ...  .  .  .. :%%%@@@@@@@</text>
+  <text x="0" y="336.0" class="ac" clip-path="url(#cr47)">@c........ ..........  .. . ..........  ..... .   .. .....           .`... ....     .. .. +@%@@@@@@@</text>
+  <text x="0" y="343.0" class="ac" clip-path="url(#cr48)">%: ......   .........  .............    ..... ..   .........   .      `.... .....    .. . .#@%@@@@@@</text>
+  <text x="0" y="350.0" class="ac" clip-path="url(#cr49)">+.  .....   ... ....  .  ...........    .....  ..   .........`.       ...........     . .. *@%@@@@@@</text>
+  <text x="0" y="357.0" class="ac" clip-path="url(#cr50)">`.. .....    ..  ...    ............ . .....   ..       ... .`.       .`..........    .    -@%@@@@@@</text>
+  <text x="0" y="364.0" class="ac" clip-path="url(#cr51)">...  ....    ..  ....   ............ .......   ....  .... ...`.        `......... .   .    `%@%@@@@@</text>
+  <text x="0" y="371.0" class="ac" clip-path="url(#cr52)">.... ....    ... ....   ............ .......     .......`..`.`. .      .`........ ..  .     c@%@@@@@</text>
+  <text x="0" y="378.0" class="ac" clip-path="url(#cr53)">  ... ...     .. ...   .....................   . ...  ..`... ..   .     `...  .... .  .     *@%@@@@@</text>
+  <text x="0" y="385.0" class="ac" clip-path="url(#cr54)">   ......     .. ..    .....................   .........`.. ...      .  ..... ....  .       +%%@@@@@</text>
+  <text x="0" y="392.0" class="ac" clip-path="url(#cr55)">   . ....      ....    .......... ..........   ...... .... ...`.   .     .... ..........    =@@@@@@@</text>
+  <text x="0" y="399.0" class="ac" clip-path="url(#cr56)">    ..         ..     ...........  ........    ...... . .. ..... .       ....  .... .       .c%%%%%%</text>
+  <text x="0" y="406.0" class="ac" clip-path="url(#cr57)">               ...    ...........  ........     ....    .. ....          .. .                `c#%%%%</text>
+  <text x="0" y="413.0" class="ac" clip-path="url(#cr58)">               ...    ...........  ........     .......... ...            .                  .=c#%%%</text>
+  <text x="0" y="420.0" class="ac" clip-path="url(#cr59)">               ..    ............  ........      ...     .....            ..                 .`+#%%%</text>
+</svg>

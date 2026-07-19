@@ -1,0 +1,30 @@
+# ── Source photos & processed intermediates ───────────────────────────────
+# Keep off public repo — personal photos and pipeline artifacts
+source-photo*.jpg
+source-prepped*.png
+
+# ── Unused ASCII variants (only avi-ascii3.svg is live) ───────────────────
+avi-ascii.svg
+avi-ascii2.svg
+
+# ── Internal planning & tooling ───────────────────────────────────────────
+blueprint.md
+CLAUDE.md
+.claude/
+graphify-out/
+
+# ── Python ────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# ── OS artifacts ──────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+
+# ── Temp / debug files ────────────────────────────────────────────────────
+tmp_*
+data/contributions_debug.html
