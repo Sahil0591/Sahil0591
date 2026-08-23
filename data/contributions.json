@@ -1,48 +1,13 @@
 {
-  "fetched_at": "2026-08-22T06:57:50.619534Z",
+  "fetched_at": "2026-08-23T06:59:44.240536Z",
   "stats": {
     "total_contributions": 330,
     "max_single_day": 26,
     "longest_streak_days": 7,
     "days_with_activity": 58,
-    "total_days": 371
+    "total_days": 365
   },
   "days": [
-    {
-      "date": "2025-08-17",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-18",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-20",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-21",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-22",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-23",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-08-24",
       "count": 0,
@@ -1860,6 +1825,11 @@
     },
     {
       "date": "2026-08-22",
+      "count": 0,
+      "level": 0
+    },
+    {
+      "date": "2026-08-23",
       "count": 0,
       "level": 0
     }
